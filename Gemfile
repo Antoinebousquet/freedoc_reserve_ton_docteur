@@ -18,6 +18,8 @@ gem 'uglifier', '>= 1.3.0'
 
 # To create fakes data
 gem 'faker'
+# To see tabs in the terminal
+gem 'table_print'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
